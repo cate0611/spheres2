@@ -1,12 +1,11 @@
 body {
-  margin: 0;
-  position: relative;
   background-color: #C1C1C1;
 }
 
 .sp-video {
-  right: relative;
-  bottom: relative;
+  position: fixed;
+  right: 0;
+  bottom: 0;
   min-width: 100%;
   min-height: 100%;
 }
