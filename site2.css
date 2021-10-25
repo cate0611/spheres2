@@ -1,3 +1,6 @@
+<html>
+<head>
+<style>
 body {
   background-color: #C1C1C1;
 }
@@ -9,14 +12,6 @@ body {
   min-width: 100%;
   min-height: 100%;
 }
-
-<style>
-a: link {
-  font-family: helvetica;
-  colour: white;
-}
-
-a:hover {
-  colour: black;
-}
 </style>
+</head>
+<body>
